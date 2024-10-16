@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+
+    background-color: rgb(119, 233, 233)!important;
+ }
+
+.clinica{
+    background-color: transparent;
+    position: absolute;
+    position: relative;
+    z-index: 2;
+}
+
+.home{
+    margin-left: 200px;
+    
+}
+    
+
+
+.navbar-brand{
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.inicio{
+    color: aqua;
+}
+
+.imagem-container {
+        display: flex; 
+        align-items: flex-start; 
+        justify-content: center; 
+        margin-bottom: 20px;
+   
+}
+
+.imagem-container img {
+    max-width: 650px;
+    margin-right: 20px; 
+}
+
+
+
+#text{
+   text-align: center;
+   font-size: 25px;
+   margin-right: 250px;
+   margin-top: 460px;
+    margin-left: -500px;
+    color: #ff5733; 
+
+
+
+}
+
+#pata{
+    margin-left: 100px;
+    max-width: 800px;
+    margin-top: 20px;
+}
+
+.custom-nav {
+    background-color: #ff5733; 
+  }
+  
+  .custom-nav .nav-link {
+    color: white;
+  }
+
+  .custom-nav .nav-link:hover {
+    color:gold;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
